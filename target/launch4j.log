@@ -1,0 +1,50 @@
+
+
+Version:	3.50
+CmdLine:	D:\JAVA\Projects\MyClock\target\MyClock.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	MyClock
+Working dir:	D:\JAVA\Projects\MyClock\target\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files\ImageMagick-7.1.0-Q16-HDRI;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Calibre2\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;H:\DataBase\SQLExpressData\Microsoft SQL Server_x86\160\Tools\Binn\;H:\DataBase\SQLExpressData\Microsoft SQL Server\160\Tools\Binn\;H:\DataBase\SQLExpressData\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;H:\DataBase\SQLExpressData\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Dividend\AppData\Local\Programs\Python\Python311\Scripts;C:\Users\Dividend\AppData\Roaming\Python\Python311\Scripts;C:\Program Files\Git\cmd;D:\JAVA\jdk19\bin;D:\JAVA\PuTTY\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Dividend\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2\bin;;C:\Users\Dividend\AppData\Local\GitHubDesktop\bin;D:\JAVA\jdk19\bin;D:\JAVA\curl-8.2.1_11-win64-mingw\bin;D:\JAVA\OpenSSL-Win64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2\plugins\maven;;D:\JAVA\jdk19\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files\ImageMagick-7.1.0-Q16-HDRI;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Calibre2\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;H:\DataBase\SQLExpressData\Microsoft SQL Server_x86\160\Tools\Binn\;H:\DataBase\SQLExpressData\Microsoft SQL Server\160\Tools\Binn\;H:\DataBase\SQLExpressData\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;H:\DataBase\SQLExpressData\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Dividend\AppData\Local\Programs\Python\Python311\Scripts;C:\Users\Dividend\AppData\Roaming\Python\Python311\Scripts;C:\Program Files\Git\cmd;D:\JAVA\jdk19\bin;D:\JAVA\PuTTY\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Dividend\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2\bin;;C:\Users\Dividend\AppData\Local\GitHubDesktop\bin;D:\JAVA\jdk19\bin;D:\JAVA\curl-8.2.1_11-win64-mingw\bin;D:\JAVA\OpenSSL-Win64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2\plugins\maven;;D:\JAVA\jdk19\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft MPI\Bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Calibre2\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	H:\DataBase\SQLExpressData\Microsoft SQL Server_x86\160\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	H:\DataBase\SQLExpressData\Microsoft SQL Server\160\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	H:\DataBase\SQLExpressData\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	H:\DataBase\SQLExpressData\Microsoft SQL Server\160\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\WiFi\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Intel\WirelessCommon\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Dividend\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Dividend\AppData\Roaming\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	D:\JAVA\jdk19\bin\javaw.exe (OK)
+Version string: 1.019.000_002 / 64-Bit (OK)
+Launcher:	D:\JAVA\jdk19\bin\javaw.exe
+Launcher args:	-jar "D:\JAVA\Projects\MyClock\target\MyClock.exe"
+Args length:	50/32768 chars
+Exit code:	0
